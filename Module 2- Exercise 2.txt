@@ -1,0 +1,4 @@
+Using the software in this exercise was fairly simple after making a few mistakes a long the way. 
+It appears that it exports information about the webpage. Such as authors, producers, titles, edits done to the page, translators basically everyone that contributed to the page.  As well as your search results. Im sure it does more but I will need to play around with it some more to fully understand it.
+
+This data is useful because it can help find information on sources webpages as well as tracking various searches and finding information within the webpage. 
